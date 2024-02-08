@@ -42,7 +42,11 @@ Anyway, I would like to tell you that technology in space exploration has improv
 
 The universe is too vast to even consider ruling out any possibility of finding earth-like planet. But, with our current technology, we might not yet say for certainity that such planets could host life. In coming decades we might advance in our space research programs but for now, we know that there are other solar systems with planets in 'Goldilock Zones' such as our planet Earth.
 
-Since 1992, NASA began its search to find earth-like planets and such planetart systems. Alas, we are shoked to see that they exist. 
+Since 1992, NASA began its search to find earth-like planets and such planetart systems. Alas! we are shoked to see that they exist. 
+
+Exoplanets, also known as extrasolar planets, are planets that exist outside of our solar system and orbit stars other than the Sun. These planets are located in other stellar systems, which can be nearby stars within our Milky Way galaxy or stars in distant galaxies.
+
+Exoplanets vary widely in size, composition, and characteristics, ranging from small rocky planets similar to Earth to massive gas giants like Jupiter and even exotic worlds with extreme conditions. They are typically detected through indirect methods, as they are too distant and faint to be observed directly with current technology.
 
 ### The Dataset
 
@@ -54,6 +58,8 @@ Let me tell you, I went creative on this viz. I have a collection of fonts in my
 ![](https://i.postimg.cc/qMCwW8vW/Dashboard-A.png)
 
 As you can see, its creative.
+
+### Interesting Insights
 
 Let me tell you some key takeaways:
 
