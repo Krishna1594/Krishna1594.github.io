@@ -51,7 +51,7 @@ I used Tableau to visualize the data.
 
 Let me tell you, I went creative on this viz. I have a collection of fonts in my laptop and one just suits this viz. Its ANURATI from Emmeran Richard. I found interesting facts and I did some of my own digging to learn about aastrophysics. So here is what I did with the dataset;
 
-[](https://i.postimg.cc/qMCwW8vW/Dashboard-A.png)
+![](https://i.postimg.cc/qMCwW8vW/Dashboard-A.png)
 
 As you can see, its creative.
 
