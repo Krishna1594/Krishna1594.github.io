@@ -12,7 +12,7 @@ _*Source: EVERSPACE 2 in-game screenshot_
 
 Okay Let's see,
 
-**My Telescope's features: **
+**My Telescope features:**
 
 Location: On Earth
 
