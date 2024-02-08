@@ -67,7 +67,7 @@ Let me tell you some key takeaways:
 
 5) Unlike planet earth that revolves around sun at an orbital inclination of 7°, some planets literally revolve perpendicularly (90° - orbital inclination). I categorzed them into bins as depicted in the plot below:
 
-[](https://i.postimg.cc/HWKnVM9Y/orbital-incls.png) 
+![](https://i.postimg.cc/HWKnVM9Y/orbital-incls.png) 
 
 6) One of the important aspects of possible life on any planet is its Sun. Oh, let me correct myself. Its Star! Sun is ours though. So, I dived into the evolution of stars indicators such as their age, their temperature, their radiii, their mass and their metallicity that could help us understand the planetary system formation and possibly composition of systems.
 
