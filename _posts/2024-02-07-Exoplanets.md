@@ -77,6 +77,8 @@ Let me tell you some key takeaways:
 
 6) One of the important aspects of possible life on any planet is its Sun. Oh, let me correct myself. Its Star! Sun is ours though. So, I dived into the evolution of stars indicators such as their age, their temperature, their radiii, their mass and their metallicity that could help us understand the planetary system formation and possibly composition of systems.
 
+7) This datasets reveals that lot of planets do fall in the goldilocks zone (assuming that the size of star remains constant) and that is a harder parameter to visualize because that zone varies with Stellar's radius, planet's orbital inclination & speed and Stellar's temperature. If the star is hot, the zone pushes further back and days could get longer. So, I might end up doing more research on this topic. 
+
 Overall, this has been an amazing project for me to imporve skills in **Tableau** and put my creativity skills to good use. This viz is available on my [Tableau](https://public.tableau.com/app/profile/krishna.n.bharatula/viz/TheExoplanets/DashboardA) profile or on my [Github](https://github.com/Krishna1594/The-Exoplanets). 
 
 Let me know how you felt about my viz. I am open to any feedback or suggestion you have. Kindly, DM me through my [LinkedIn](https://www.linkedin.com/in/krishna-nischal-bharatula/).
