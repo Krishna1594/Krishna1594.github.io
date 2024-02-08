@@ -34,7 +34,7 @@ Location: 1.5million Km away from earth (L2-point) in space
 
 Yeah, mine is dumb!
 
-Anyway, I would like to tell you that technology in space exploration has improved a lot in the past decade or so. I found the Exoplanets dataset from Nasa Exoplanets Archive website. You can access the dataset from [here](https://exoplanetarchive.ipac.caltech.edu/index.html). Let me first thank NASA and their program. Allow me how I acquired this data and how I used the dataset in my research project.
+Anyway, I would like to tell you that technology in space exploration has improved a lot in the past decade or so. I found the Exoplanets dataset from Nasa Exoplanets Archive website. You can access the dataset from [here](https://exoplanetarchive.ipac.caltech.edu/index.html). Let me first thank NASA and their program. Allow me to properly state and give dredit to my source.
 
 > This research has made use of the NASA Exoplanet Archive, which is operated by the California Institute of Technology, under contract with the National Aeronautics and Space Administration under the Exoplanet Exploration Program.
 
