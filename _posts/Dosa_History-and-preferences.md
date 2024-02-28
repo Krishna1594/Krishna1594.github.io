@@ -1,6 +1,6 @@
 ---
-title: Diamonds in the sky
-tags: [Astrophotography]
+title: Dosa: History & Preferences
+tags: [Food, Data Visualization, History, Survey]
 style: fill
 color: secondary
 comments: true
