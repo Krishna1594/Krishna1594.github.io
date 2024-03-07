@@ -80,7 +80,7 @@ Let's answer the questions, shall we?
 
    **3) Do we have any commodities crossing the ETA (Tolerance) of Residue of Pesticides?**
    
-   For the answer, I wrote the following code and found there are **101 commodity samples that exceed residue of pesticide tolerance levels set.**
+   For the answer, I wrote the following code and found there are **101 results of various commodity samples reveal which of them exceeded tolerance levels for residue of pesticide depending on the pesticide name.**
 
    <script src="https://gist.github.com/Krishna1594/715974c9a2c2fcc18dd2e7d6da806169.js"></script>
 
@@ -104,7 +104,7 @@ Let's answer the questions, shall we?
 
    ![Preview](https://i.postimg.cc/FRG0t7LG/P90samples.png)
 
-   A total of **1132 samples were held more than 90 days before testing those samples.**
+   A total of **1132 analytics results reveal the samples which were held more than 90 days before testing those samples.**
 
 ### Stored Procedure for calculating KPIs
 
