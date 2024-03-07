@@ -86,7 +86,7 @@ Let's answer the questions, shall we?
 
    ![Preview](https://i.postimg.cc/MGCqTmQH/EPAlimitscrossed.png)
 
-**4) Which states/facilities have reported the concentration of pesticides?**
+**4) Which agencies have reported the concentration of pesticides?**
 
    From the above final table I have created, I used tableau here to create a bar chart to show which facilities tested the samples and who reported concentration of residue of pesticides. I uploaded my dataset into tableau and created the plot. The chart is as follows:
 
@@ -100,16 +100,18 @@ Let's answer the questions, shall we?
 
    And, below code provides the list of those samples:
 
-   
+   <script src="https://gist.github.com/Krishna1594/ab9e9c8692a21070b0ae36a06c14a7e3.js"></script>
 
-   
+   ![Preview](https://i.postimg.cc/FRG0t7LG/P90samples.png)
 
-   
-   
-
-   
-
+   A total of **1132 samples were held more than 90 days before testing those samples.**
 
 ### Stored Procedure for calculating KPIs
+
+For tracking KPIs, I came up with a stored procedure. Whenever the dataset gets new entry or updates, I can call this procedure and get the new KPIs for my dashboard.
+
+<script src="https://gist.github.com/Krishna1594/9bcff2af75a9a40325866afb80247ead.js"></script>
+
+![Preview](https://i.postimg.cc/Fz6p4XzP/KPIs.png)
 
 ### EER Diagram of the Database
