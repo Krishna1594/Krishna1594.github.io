@@ -56,11 +56,11 @@ Let's answer the questions, shall we?
 
 **2) Which food commodities have traces of pesticide? Elaborate the details about commodity and pesticides by providing a list.**
 
-   For this question, I can create a table and drop all the samples and their results where a residue of pesticide has been found. I used subqueries and ensured to drop only those results where the concentration is more than zero. Follwoing is the code:
+   For this question, I can create a table and drop all the samples and their results where a residue of pesticide has been found. Looks like our manager is interested in only those commodities where a residue of pesticide has been found. I used subqueries and ensured to drop only those results where the concentration is more than zero. Follwoing is the code:
 
    <script src="https://gist.github.com/Krishna1594/c24ca039831f3ea4c684e01b33c9e639.js"></script>
 
-   I accessed respective datasets to provide further details of each result of a sample. I used LEFT JOIN since I wanted to keep the table constaining samples with reported pesticide conentration as it is and add matching parameters such as agency that tested, origin of the sample etc. to the table. I wrote the following query:
+   Let's stick to these samples for now. I accessed respective datasets to provide further details of each result of a sample. I used LEFT JOIN since I wanted to keep the table constaining samples with reported pesticide conentration as it is and add matching parameters such as agency that tested, origin of the sample etc. to the table. I wrote the following query:
 
    <script src="https://gist.github.com/Krishna1594/ba4ac4f76c67abde9e577e11bcbd8cb0.js"></script>
 
@@ -119,4 +119,31 @@ For tracking KPIs, I came up with a stored procedure. Whenever the dataset gets 
 After creating a good database, I was able to create a Entity-Relationship Diagram (ERD) of my database highlighting how my tables are connected;
 
 ![Preview](https://i.postimg.cc/VL0tZVQk/ERD-DB.png)
+
+### Visualization in Tableau
+
+**An overall of 26283 test results of samples show residue of pesticide in terms of concentration out of 2.89 million test results.**
+
+One of the insights is that samples test results show that **only 0.38% of total samples with traces of residue of pesticides exceed the tolerance levels.** Almost all commodities are safe and further broken down based on the origin of these commodities, and what kind of pesticides are found on these commodities.
+
+**Green beans is the most common commodity exceeding pesticide tolerance levels amongst the samples showing the traces of pesticides.**
+
+The following dashboard was created in tableau:
+
+![Preview](https://i.postimg.cc/j54RN0H9/dashboard-final.png)
+
+
+## Conclusion
+
+My Dashboard can be found through [here](https://public.tableau.com/app/profile/krishna.n.bharatula/viz/CommoditiesPesticidesData/Dashboard).
+
+MySQL has proved again, an amazing tool to access and bring out data that is hidden between millions of rows. This concludes my project and further I am willing to dive into one specific column which seems to be a mess;'Variety'. This column has incorrect spellings and misappropriation of several commodity types such as 'Blueberries' or 'Blue Berries' or 'Roma Tomatoes' or 'Tomatoes, Roma' or 'N/A' or 'Na'. There could be more insights in this thought process. 
+
+FInally, I would like to thank U.S Department of Agriculture - Agricultural Marketing Service for making this dataset available for public for educational and research purposes. 
+
+Thank you for taking time in reading my project report. If you find any mistakes and have any feedback please do not hesitate in reaching out to me at my [LinkedIn](https://www.linkedin.com/in/krishna-nischal-bharatula/)
+
+Onwards to my next project!
+
+
 
