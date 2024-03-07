@@ -36,6 +36,12 @@ For importing my samples dataset, I simply used 'Data Import/Export Wizard' in m
 
 
 ## Analysis and Visualization
+To make my project a bit fun, I came up with a scenario. Assume that I work at USDA as a part of data analytics team; Data Analyst. I got an email from my lead after morning briefing as follows:
+
+![Preview](https://i.postimg.cc/Yq3yTssz/email-usda.png)
+
+
+
 
 ### Stored Procedure for calculating KPIs
 
