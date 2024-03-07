@@ -36,6 +36,7 @@ For importing my samples dataset, I simply used 'Data Import/Export Wizard' in m
 
 
 ## Analysis and Visualization
+
 To make my project a bit fun, I came up with a scenario. Assume that I work at USDA as a part of data analytics team; Data Analyst. I got an email from my lead after morning briefing as follows:
 
 ![Preview](https://i.postimg.cc/Yq3yTssz/email-usda.png)
@@ -43,14 +44,15 @@ To make my project a bit fun, I came up with a scenario. Assume that I work at U
 Let's answer the questions, shall we?
 
 **1) How many commodities have we analyzed in 2022?**
+
    For this, I need to access commodities list to display name of commodities and count number of test results on each commodities by accessing analysis results dataset. I have to utilize 'join' to be able to produce list and export the list for my lead
    and manager. Thus, I wrote the follwoing code:
    
-<script src="https://gist.github.com/Krishna1594/c40fac7ee4b2c7ff61250e7c72b01d35.js"></script>
+   <script src="https://gist.github.com/Krishna1594/c40fac7ee4b2c7ff61250e7c72b01d35.js"></script>
 
-![Preview](https://i.postimg.cc/Vs4VVhTB/list-of-commods.png)
+   ![Preview](https://i.postimg.cc/Vs4VVhTB/list-of-commods.png)
 
-From this lsit, we can see that **we have analyzed 23 types commodities in the year 2022.**
+   From this list, we can see that **we have analyzed 23 types commodities in the year 2022.**
 
 
 ### Stored Procedure for calculating KPIs
