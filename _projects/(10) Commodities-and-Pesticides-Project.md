@@ -60,6 +60,21 @@ Let's answer the questions, shall we?
 
    <script src="https://gist.github.com/Krishna1594/c24ca039831f3ea4c684e01b33c9e639.js"></script>
 
+   I accessed respective datasets to provide further details of each result of a sample. I used LEFT JOIN since I wanted to keep the table constaining samples with reported pesticide conentration as it is and add matching parameters such as agency that tested, origin of the sample etc. to the table. I wrote the following query:
+
+   <script src="https://gist.github.com/Krishna1594/ba4ac4f76c67abde9e577e11bcbd8cb0.js"></script>
+
+   Then, I added tolerance level to it as well as origin (country) of the sample (either imported or domestic). I noticed that for USA ther is no specific code and I didn't want to leave such cells NULL so, I assigned a custom code for USA; "100". Finally, my table is now refined by using following code:
+
+   <script src="https://gist.github.com/Krishna1594/9624d52d0571e78f48951d720a8108bc.js"></script>
+
+   Added, when sample was collected, this will help me build a comprehensive dashboard.
+
+   <script src="https://gist.github.com/Krishna1594/7eef946706a6e8d073fffa2d95ab6b24.js"></script>
+
+   
+   
+
    
 
 
