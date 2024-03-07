@@ -26,6 +26,14 @@ The main data is in text file and reference tables hold various information rega
 
 <script src="https://gist.github.com/Krishna1594/ea5f26be3019b4bf9e0f3ad1596c3029.js"></script>
 
+Now, I imported using the follwoing query into my server. I was careful not to forget my delimiter type here from the text file.
+
+<script src="https://gist.github.com/Krishna1594/d2562882be94e7e25ba17199ac2f75a5.js"></script>
+
+For importing my samples dataset, I simply used 'Data Import/Export Wizard' in mysql workbench under the database and assigned proper data-types. Then, I imported all the necessary reference tables into my database and assigned proper attributes to my datasets;
+
+<script src="https://gist.github.com/Krishna1594/079898afb0f791d8d48714ff9a95dfac.js"></script>
+
 
 
 ### Stored Procedure for calculating KPIs
