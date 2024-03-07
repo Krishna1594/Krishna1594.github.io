@@ -54,6 +54,14 @@ Let's answer the questions, shall we?
 
    From this list, we can see that **we have analyzed 23 types commodities in the year 2022.**
 
+**2) Which food commodities have traces of pesticide? Elaborate the details about commodity and pesticides by providing a list.**
+
+   For this question, I can create a table and drop all the samples and their results where a residue of pesticide has been found. I used subqueries and ensured to drop only those results where the concentration is more than zero. Follwoing is the code:
+
+   <script src="https://gist.github.com/Krishna1594/c24ca039831f3ea4c684e01b33c9e639.js"></script>
+
+   
+
 
 ### Stored Procedure for calculating KPIs
 
