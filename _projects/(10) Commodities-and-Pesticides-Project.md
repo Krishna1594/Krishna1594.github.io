@@ -35,11 +35,8 @@ For importing my samples dataset, I simply used 'Data Import/Export Wizard' in m
 <script src="https://gist.github.com/Krishna1594/079898afb0f791d8d48714ff9a95dfac.js"></script>
 
 
+## Analysis and Visualization
 
 ### Stored Procedure for calculating KPIs
 
 ### EER Diagram of the Database
-
-## Analysis and Visualization
-
-
