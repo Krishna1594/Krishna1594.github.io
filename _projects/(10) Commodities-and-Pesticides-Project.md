@@ -115,3 +115,8 @@ For tracking KPIs, I came up with a stored procedure. Whenever the dataset gets 
 ![Preview](https://i.postimg.cc/Fz6p4XzP/KPIs.png)
 
 ### EER Diagram of the Database
+
+After creating a good database, I was able to create a Entity-Relationship Diagram (ERD) of my database highlighting how my tables are connected;
+
+![Preview](https://i.postimg.cc/VL0tZVQk/ERD-DB.png)
+
