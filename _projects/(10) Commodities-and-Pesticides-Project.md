@@ -74,6 +74,16 @@ Let's answer the questions, shall we?
 
    <script src="https://gist.github.com/Krishna1594/7eef946706a6e8d073fffa2d95ab6b24.js"></script>
 
+   Finally, the list will look as follows:
+
+   ![Preview](https://i.postimg.cc/Px9Y3c9y/dash-list.png)
+
+   **3) Do we have any commodities crossing the ETA (Tolerance) of Residue of Pesticides?**
+   
+   For the answer, I wrote the following code and found there are **101 commodity samples that exceed residue of pesticide tolerance levels set.**
+
+   <script src="https://gist.github.com/Krishna1594/715974c9a2c2fcc18dd2e7d6da806169.js"></script>
+
    
    
 
