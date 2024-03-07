@@ -39,7 +39,7 @@ For importing my samples dataset, I simply used 'Data Import/Export Wizard' in m
 
 To make my project a bit fun, I came up with a scenario. Assume that I work at USDA as a part of data analytics team; Data Analyst. I got an email from my lead after morning briefing as follows:
 
-![Preview](https://i.postimg.cc/Yq3yTssz/email-usda.png)
+![Preview](https://i.postimg.cc/c1mdSdj2/email-usda.png)
 
 Let's answer the questions, shall we?
 
@@ -86,11 +86,21 @@ Let's answer the questions, shall we?
 
    ![Preview](https://i.postimg.cc/MGCqTmQH/EPAlimitscrossed.png)
 
-   **4) Which states/facilities have reported the concentration of pesticides?**
+**4) Which states/facilities have reported the concentration of pesticides?**
 
    From the above final table I have created, I used tableau here to create a bar chart to show which facilities tested the samples and who reported concentration of residue of pesticides. I uploaded my dataset into tableau and created the plot. The chart is as follows:
 
    ![Preview](https://i.postimg.cc/dt1ms2mG/samples-at-agency.png)
+
+**5) Finally, which samples were held more than 90 days in the lab and where?**
+
+   I wrote the following simple query to narrow down how many samples were store for more than 90 days before testing.
+
+   <script src="https://gist.github.com/Krishna1594/fc5bd69b22c069a1a65403bfbbace79f.js"></script>
+
+   And, below code provides the list of those samples:
+
+   
 
    
 
