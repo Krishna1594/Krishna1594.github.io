@@ -84,6 +84,16 @@ Let's answer the questions, shall we?
 
    <script src="https://gist.github.com/Krishna1594/715974c9a2c2fcc18dd2e7d6da806169.js"></script>
 
+   ![Preview](https://i.postimg.cc/MGCqTmQH/EPAlimitscrossed.png)
+
+   **4) Which states/facilities have reported the concentration of pesticides?**
+
+   From the above final table I have created, I used tableau here to create a bar chart to show which facilities tested the samples and who reported concentration of residue of pesticides. I uploaded my dataset into tableau and created the plot. The chart is as follows:
+
+   ![Preview](https://i.postimg.cc/dt1ms2mG/samples-at-agency.png)
+
+   
+
    
    
 
