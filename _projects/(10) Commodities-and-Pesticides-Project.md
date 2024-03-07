@@ -64,6 +64,8 @@ Let's answer the questions, shall we?
 
    <script src="https://gist.github.com/Krishna1594/ba4ac4f76c67abde9e577e11bcbd8cb0.js"></script>
 
+   I created views because, everytime the dataset gets updated, so does this view. Everytime I don't have to write up a new code. This is where I had the unique idea of creating a stored procedure for my KPIs and export them into csv file. I did create it, which I explained in next section.
+   
    Then, I added tolerance level to it as well as origin (country) of the sample (either imported or domestic). I noticed that for USA ther is no specific code and I didn't want to leave such cells NULL so, I assigned a custom code for USA; "100". Finally, my table is now refined by using following code:
 
    <script src="https://gist.github.com/Krishna1594/9624d52d0571e78f48951d720a8108bc.js"></script>
