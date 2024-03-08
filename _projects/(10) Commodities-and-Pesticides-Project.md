@@ -60,7 +60,7 @@ Let's answer the questions, shall we?
 
    <script src="https://gist.github.com/Krishna1594/c24ca039831f3ea4c684e01b33c9e639.js"></script>
 
-   Let's stick to these samples for now. I accessed respective datasets to provide further details of each result of a sample. I used LEFT JOIN since I wanted to keep the table constaining samples with reported pesticide conentration as it is and add matching parameters such as agency that tested, origin of the sample etc. to the table. I wrote the following query:
+   Let's stick to these samples for now. I accessed respective datasets to provide further details of each result of a sample. I used LEFT JOIN since I wanted to keep the table containing samples with reported pesticide conentration as it is and add matching parameters such as agency that tested, origin of the sample etc. to the table. I wrote the following query:
 
    <script src="https://gist.github.com/Krishna1594/ba4ac4f76c67abde9e577e11bcbd8cb0.js"></script>
 
@@ -114,7 +114,7 @@ For tracking KPIs, I came up with a stored procedure. Whenever the dataset gets 
 
 ![Preview](https://i.postimg.cc/Fz6p4XzP/KPIs.png)
 
-### EER Diagram of the Database
+### ER Diagram of the Database
 
 After creating a good database, I was able to create a Entity-Relationship Diagram (ERD) of my database highlighting how my tables are connected;
 
