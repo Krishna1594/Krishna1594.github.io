@@ -17,4 +17,4 @@ The show first aired on December 14, 2015, with the premiere episode titled "Dul
 
 I really like this show because of the attentention to detail in this show is unparalleled. See for yourself what astrophysicists and astronauts have got to saay about "The Expanse":
 
-![](https://www.youtube.com/watch?v=BkoMHhu0P9Y)
+![Preview](https://www.youtube.com/watch?v=BkoMHhu0P9Y)
