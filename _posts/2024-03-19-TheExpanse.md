@@ -19,10 +19,7 @@ I really like this show because of the attention-to-detail, which in this show i
 
 ### Astronaut Chris Hadfield reviews 'The Expanse'
 
-{% raw %}
 {% include elements/video.html video_ids="BkoMHhu0P9Y" %}
-{% endraw %}
-
 
 Skip to 12:02 minuites for the review directly.
 
