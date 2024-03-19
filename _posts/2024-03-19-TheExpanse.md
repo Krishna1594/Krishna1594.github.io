@@ -17,4 +17,10 @@ The show first aired on December 14, 2015, with the premiere episode titled "Dul
 
 I really like this show because of the attentention to detail in this show is unparalleled. See for yourself what astrophysicists and astronauts have got to saay about "The Expanse":
 
+### Astronaut Chris Hadfield reviews 'The Expasne'
+
 {% include elements/video.html video_ids="BkoMHhu0P9Y" %}
+
+Skip to 12:02 minuites for the review directly.
+
+###
