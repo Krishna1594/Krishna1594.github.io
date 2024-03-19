@@ -28,3 +28,7 @@ Skip to 12:02 minuites for the review directly.
 Catch Dr. Becky reviewing 'The Expanse' in her youtube channel where she highlights the the level of detail in this show. 
 
 {% include elements/video.html id="O25-_eEdxaw" %}
+
+## The Data
+
+Actually, I was enthralled by the first and second episodes to an extent where I tabulated data as I watched the rest of the showin Microsoft Excel and categorized them per each season. I have tabulated my favorite charavters from each season, the ships, minute details fo each celestial objects as the plot unfolds. Took around 3 weeks 2 days precisely. Moreover, I had to search inside IMDB website for the show's ratings dataset and I used that data in this visualization.
