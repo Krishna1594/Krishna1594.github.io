@@ -1,5 +1,5 @@
 --
-title: A Sci-fi Masterpiece: The Expanse
+title: A Sci-fi Masterpiece - The Expanse
 tags: [Astrophotography, Astrophysics, Tableau, Data Visualization, Research]
 style: Border
 color: secondary
