@@ -21,4 +21,3 @@ I really like this show because of the attentention to detail in this show is un
 external_url: https://www.youtube.com/watch?v=BkoMHhu0P9Y
 ---
 
-![Preview](https://www.youtube.com/watch?v=BkoMHhu0P9Y)
