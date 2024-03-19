@@ -1,6 +1,6 @@
 --
-title: Diamonds in the sky
-tags: [Astrophotography]
+title: A Sci-fi Masterpiece: The Expanse
+tags: [Data Visualization, Tableau, TVShow, DataPlusSeries]
 style: fill
 color: secondary
 comments: true
