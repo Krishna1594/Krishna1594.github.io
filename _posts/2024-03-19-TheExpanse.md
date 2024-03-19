@@ -1,13 +1,14 @@
 ---
 title: A Sci-fi Masterpiece - The Expanse
-tags: [Astrophotography, Astrophysics, Tableau, Data Visualization, Research]
+tags: [TVShows, Tableau, Data Visualization, Excel]
 style: Border
 color: secondary
 comments: true
-description: Do they host life? or just a possibility?
+description: Visualizing one of my favorite TV shows in tableau.
 ---
 
-![preview](https://i.postimg.cc/sxFxNkz5/collection.png)
+![preview](https://i.postimg.cc/RZjF32v9/The-expanse.png)
+#### Source: Amazon Prime
 
 ## That sheer tranquility just amazes me!
 
