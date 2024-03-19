@@ -15,12 +15,17 @@ description: Visualizing one of my favorite TV shows in tableau.
 
 The show first aired on December 14, 2015, with the premiere episode titled "Dulcinea." The series originally aired on the Syfy network in the United States. It premiered as a two-episode pilot event, with "Dulcinea" followed by the second episode, "The Big Empty," on the same night. Since then, "The Expanse" has continued to air subsequent seasons, gaining a dedicated fanbase and critical acclaim for its storytelling, world-building, and visual effects.
 
-I really like this show because of the attentention to detail in this show is unparalleled. See for yourself what astrophysicists and astronauts have got to saay about "The Expanse":
+I really like this show because of the attention-to-detail, which in this show is unparalleled. See for yourself what astrophysicists and astronauts have got to say about "The Expanse":
 
-### Astronaut Chris Hadfield reviews 'The Expasne'
+### Astronaut Chris Hadfield reviews 'The Expanse'
 
 {% include elements/video.html video_ids="BkoMHhu0P9Y" %}
 
 Skip to 12:02 minuites for the review directly.
 
-###
+### Astrophysicist Dr. Becky Smethrust on reviews 'The Expanse'
+
+Catch Dr. Becky reviewing 'The Expanse' in her youtube channel where she highlights the the level of detail in this show. 
+
+{% include elements/video.html video_ids="O25-_eEdxaw" %}
+
