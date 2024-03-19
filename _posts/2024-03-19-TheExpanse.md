@@ -15,3 +15,6 @@ description: Visualizing one of my favorite TV shows in tableau.
 
 The show first aired on December 14, 2015, with the premiere episode titled "Dulcinea." The series originally aired on the Syfy network in the United States. It premiered as a two-episode pilot event, with "Dulcinea" followed by the second episode, "The Big Empty," on the same night. Since then, "The Expanse" has continued to air subsequent seasons, gaining a dedicated fanbase and critical acclaim for its storytelling, world-building, and visual effects.
 
+I really like this show because of the attentention to detail in this show is unparalleled. See for yourself what astrophysicists and astronauts have got to saay about "The Expanse":
+
+![](https://www.youtube.com/watch?v=BkoMHhu0P9Y)
