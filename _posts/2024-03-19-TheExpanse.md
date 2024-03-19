@@ -7,8 +7,6 @@ comments: true
 description: Visualizing one of my favorite TV shows in tableau.
 ---
 
-{% include elements/video.html video_ids="BkoMHhu0P9Y" %}
-
 ![preview](https://i.postimg.cc/RZjF32v9/The-expanse.png)
 #### Source: Amazon Prime
 
