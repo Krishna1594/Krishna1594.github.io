@@ -10,6 +10,6 @@ description: Visualizing one of my favorite TV shows in tableau.
 ![preview](https://i.postimg.cc/RZjF32v9/The-expanse.png)
 #### Source: Amazon Prime
 
-## That sheer tranquility just amazes me!
+## The Expasne
 
 
