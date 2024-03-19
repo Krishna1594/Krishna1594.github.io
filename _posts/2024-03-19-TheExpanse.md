@@ -19,7 +19,10 @@ I really like this show because of the attention-to-detail, which in this show i
 
 ### Astronaut Chris Hadfield reviews 'The Expanse'
 
+{% raw %}
 {% include elements/video.html video_ids="BkoMHhu0P9Y" %}
+{% endraw %}
+
 
 Skip to 12:02 minuites for the review directly.
 
@@ -27,5 +30,6 @@ Skip to 12:02 minuites for the review directly.
 
 Catch Dr. Becky reviewing 'The Expanse' in her youtube channel where she highlights the the level of detail in this show. 
 
+{% raw %}
 {% include elements/video.html video_ids="O25-_eEdxaw" %}
-
+{% endraw %}
