@@ -31,7 +31,7 @@ Catch Dr. Becky reviewing 'The Expanse' in her youtube channel where she highlig
 
 ## The Data
 
-Actually, I was enthralled by the first and second episodes to an extent where I tabulated data as I watched the rest of the showin Microsoft Excel and categorized them per each season. I have tabulated my favorite charavters from each season, the ships, minute details fo each celestial objects as the plot unfolds. Took around 3 weeks 2 days precisely. Moreover, I had to search inside IMDB website for the show's ratings dataset and I used that data in this visualization.
+Actually, I was enthralled by the first and second episodes to an extent where I tabulated data as I watched the rest of the show, in Microsoft Excel and categorized them per each season. I have tabulated my favorite characters from each season, the ships, minute details fo each celestial objects as the plot unfolds. Took around 3 weeks 2 days precisely. Moreover, I had to search inside IMDB website for the show's ratings dataset and I used that data in this visualization.
 
 ### Cleaning
 
@@ -39,7 +39,7 @@ The IMDB ratings dataset for the series is available through [here](https://www.
 
 ![Preview](https://i.postimg.cc/NMc9PFC5/excel1.png)
 
-I formatted the dates seelcting eprtinent column, here it is "release date" and selected entire rows using excel shortcut Left ctrl+Shift+down arrow(⬇️). Then, I went to 'format cells' and selected proper date format "mm/dd/yyyy".
+I formatted the dates seelcting pertinent column, here it is "release date" and selected entire rows using excel shortcut Left ctrl+Shift+down arrow(⬇️). Then, I went to 'format cells' and selected proper date format "mm/dd/yyyy".
 
 Now, another important task is to extract season & episode numbers from description column. For this I used the following function and syntaxes:
 
