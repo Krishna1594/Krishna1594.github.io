@@ -89,6 +89,8 @@ Thus, here is my viz'
 
 ![Preview](https://i.postimg.cc/j2jFPxbF/viz.png)
 
+Dashbaord Link: [The Expanse Dashbard](https://public.tableau.com/app/profile/krishna.n.bharatula/viz/TheExpanse/Dashboard1).
+
 ## Acknowledgements
 
 I have to thank the whole team of 'The Expanse' for entertaining me. While the show was being aired, the cast were doing live sessions talking to the fans and having fun. I got a chance to look back at the videos for a brief amount of time. Actually, I watched this show for the 6th time! 
