@@ -39,9 +39,9 @@ The IMDB ratings dataset for the series is available through [here](https://www.
 
 ![Preview](https://i.postimg.cc/NMc9PFC5/excel1.png)
 
-I formatted the dates seelcting pertinent column, here it is "release date" and selected entire rows using excel shortcut Left ctrl+Shift+down arrow(⬇️). Then, I went to 'format cells' and selected proper date format "mm/dd/yyyy".
+I formatted the dates selecting pertinent column, here it is "release date" and selected entire rows using excel shortcut Left ctrl+Shift+down arrow(⬇️). Then, I went to 'format cells' and selected proper date format "mm/dd/yyyy".
 
-Now, another important task is to extract season & episode numbers from description column. For this I used the following function and syntaxes:
+Now, another important task is to extract season & episode numbers from description column. For this, I used the following function and syntaxes:
 
 <script src="https://gist.github.com/Krishna1594/9a300bae1c65f502e7c9eccd40afde1c.js"></script>
 
