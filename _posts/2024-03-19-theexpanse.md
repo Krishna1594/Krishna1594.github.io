@@ -95,7 +95,7 @@ Dashbaord Link: [The Expanse Dashbard](https://public.tableau.com/app/profile/kr
 
 I have to thank the whole team of 'The Expanse' for entertaining me. While the show was being aired, the cast were doing live sessions talking to the fans and having fun. I got a chance to look back at the videos for a brief amount of time. Actually, I watched this show for the 6th time! 
 
-I thnak [Fandom](https://expanse.fandom.com/wiki/The_Expanse_Wiki) and [IMDB](https://www.imdb.com/?ref_=nv_home) for the data and ship icons. I do not have any rights over the imdb ratings data and ships design or icon files. All the rights are with Fandom, IMDB and Alcon Television Group who produced this show. I just used what was publicly available. If anyone finds this as a breach, please let me know through here [LinkedIn](https://www.linkedin.com/in/krishna-nischal-bharatula/) or email me at krishnanischal@hotmail.com.
+I thnak [Fandom](https://expanse.fandom.com/wiki/The_Expanse_Wiki) and [IMDB](https://www.imdb.com/?ref_=nv_home) for the data and ship icons. I do not have any rights over the imdb ratings data and ships design or icon files. All the rights are with Fandom, IMDB and Alcon Television Group who produced this show. I just used what was publicly available. If anyone finds this as a breach, please let me know through here [LinkedIn](https://www.linkedin.com/in/krishna-nischal-bharatula/) or [email](krishnanischal@hotmail.com) me.
 
 I thank [Trevor Maxwell](https://www.linkedin.com/in/trevor2maxwell/) for helping me in making the sankey chart better. 
 
