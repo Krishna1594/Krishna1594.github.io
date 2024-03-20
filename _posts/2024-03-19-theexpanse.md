@@ -69,7 +69,7 @@ and,
 
 In tableau, I created unions and mapped the database by common columns and the map looks something like this:
 
-![Preview](https://i.postimg.cc/QM45Vhft/tab1.png).
+![Preview](https://i.postimg.cc/QM45Vhft/tab1.png)
 
 Once I organized each sheet from my dataset with mapping common columns, I worked on creating the visualization.
 
@@ -81,7 +81,7 @@ This drove me to create a dataset with actual distances of objects in space usin
 
 ### Chart Selection
 
-I utilized 'Starburst chart' and 'Sankey Chart' to visualize my data while enabling me to tell a better story and information for the viewers. While starburst chart highlights rating details and meta data of each episode, the sankey chart tells which characters starred in each season. The same characters appeared in other seasons too. I couldn't find a better chart than this one. Sankey chrt works best for data having a flow of information.
+I utilized 'Starburst chart' and 'Sankey Chart' to visualize my data while enabling me to tell a better story and information for the viewers. While starburst chart highlights rating details and meta data of each episode, the sankey chart tells which characters starred in each season. The same characters appeared in other seasons too. I couldn't find a better chart than this one. Sankey chart works best for data having a flow of information.
 
 For ships data, I simply used a bar chart that highlights which ships had the highest kill streaks or 'splash' count.
 
