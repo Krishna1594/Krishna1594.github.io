@@ -87,7 +87,7 @@ For ships data, I simply used a bar chart that highlights which ships had the hi
 
 Thus, here is my viz'
 
-![Preview](https://i.postimg.cc/j2jFPxbF/viz.png)
+![Preview](https://public.tableau.com/views/TheExpanse/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 Dashbaord Link: [The Expanse Dashbard](https://public.tableau.com/app/profile/krishna.n.bharatula/viz/TheExpanse/Dashboard1).
 
