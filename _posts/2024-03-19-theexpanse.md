@@ -95,7 +95,9 @@ Dashbaord Link: [The Expanse Dashbard](https://public.tableau.com/app/profile/kr
 
 I must thank the whole team of 'The Expanse' for entertaining me. While the show was being aired, the cast were doing live sessions talking to the fans and having fun. I got a chance to look back at the videos for a brief amount of time. Actually, I watched this show for the 6th time! 
 
-I thank [Fandom](https://expanse.fandom.com/wiki/The_Expanse_Wiki) and [IMDB](https://www.imdb.com/?ref_=nv_home) for the data and ship icons. I do not have any rights over the imdb ratings data and ships design or icon files. All the rights are with Fandom, IMDB and Alcon Television Group who produced this show. I just used what was publicly available. If anyone finds this as a breach, please let me know through here [LinkedIn](https://www.linkedin.com/in/krishna-nischal-bharatula/) or [email](krishnanischal@hotmail.com) me. I created this viz for improving my data analytics skills and NOT for any promotional purposes. Do follow Fandom, IMDB and ![Alcon Entertainment](https://www.alconent.com/new-tv/the-expanse-seasons-1-6/?showpage=0) for more details about the show.
+I thank [Fandom](https://expanse.fandom.com/wiki/The_Expanse_Wiki) and [IMDB](https://www.imdb.com/?ref_=nv_home) for the data and ship icons. I do not have any rights over the imdb ratings data and ships design or icon files. All the rights are with Fandom, IMDB and Alcon Television Group who produced this show. I just used what was publicly available. If anyone finds this as a breach, please let me know through here [LinkedIn](https://www.linkedin.com/in/krishna-nischal-bharatula/). 
+
+I created this viz for improving my data analytics skills and NOT for any promotional purposes. Do follow Fandom, IMDB and ![Alcon Entertainment](https://www.alconent.com/new-tv/the-expanse-seasons-1-6/?showpage=0) for more details about the show.
 
 I thank [Trevor Maxwell](https://www.linkedin.com/in/trevor2maxwell/) for helping me in making the sankey chart better. 
 
