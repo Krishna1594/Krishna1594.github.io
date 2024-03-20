@@ -67,7 +67,7 @@ and,
 
 ## Organizing
 
-In tableau I created unions and mapped the database by common columns and the map looks something like this:
+In tableau, I created unions and mapped the database by common columns and the map looks something like this:
 
 ![Preview](https://i.postimg.cc/QM45Vhft/tab1.png).
 
@@ -97,7 +97,7 @@ I have to thank the whole team of 'The Expanse' for entertaining me. While the s
 
 I thnak [Fandom](https://expanse.fandom.com/wiki/The_Expanse_Wiki) and [IMDB](https://www.imdb.com/?ref_=nv_home) for the data and ship icons. I do not have any rights over the imdb ratings data and ships design or icon files. All the rights are with Fandom, IMDB and Alcon Television Group who produced this show. I just used what was publicly available. If anyone finds this as a breach, please let me know through here [LinkedIn](https://www.linkedin.com/in/krishna-nischal-bharatula/) or email me at krishnanischal@hotmail.com.
 
-I thank [Trevor Maxwell](https://www.linkedin.com/in/trevor2maxwell/) for helping me ij making the sankey chartt better. 
+I thank [Trevor Maxwell](https://www.linkedin.com/in/trevor2maxwell/) for helping me in making the sankey chart better. 
 
 Thank you for taking time in reading this article and do let me know what you think about the viz by reaching out to me through [LinkedIn](https://www.linkedin.com/in/krishna-nischal-bharatula/).
 
