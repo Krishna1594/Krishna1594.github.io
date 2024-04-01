@@ -19,3 +19,7 @@ Probably the complex imagination is being able to pin-point the position of obje
 #### Data Format: Introducing TLE
 A two-line element set (TLE) or three-line element set (3LE) is a data format encoding a list of orbital elements of an Earth-orbiting object for a given point in time, the 'epoch'. The United States Space Force tracks all detectable objects in Earth orbit, creating a corresponding TLE for each object, and makes publicly available TLEs for many of the space objects on the websites Space Track and Celestrak, except classified objects. The TLE format is a standard for distribution of an Earth-orbiting object's orbital elements.
 
+If you want to know how to ready a TLE file then please refer [here](https://en.wikipedia.org/wiki/Two-line_element_set).
+
+#### Data Sources
+I needed the latest orbital details of satellites so, I leveraged [celestrack](https://celestrak.org/satcat/search.php)'s database to gather information of satellites and thier orbital data. There are other sources but requires registration. I donwloaded the TLE files of satellites are operational. 
