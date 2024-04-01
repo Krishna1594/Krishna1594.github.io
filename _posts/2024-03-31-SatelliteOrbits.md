@@ -1,11 +1,12 @@
 ---
-title: A Sci-fi Masterpiece - The Expanse
-tags: [TVShows, Tableau, Data Visualization, Excel]
+title: Visulaizing Satellite Orbits using Matlab
+tags: [Matlab, Astrodynamics, Planetary Science]
 style: Border
 color: secondary
 comments: true
-description: Visualizing one of my favorite TV shows in tableau.
+description: A function in matlab to visualize the orbits of satellites around the Earth at a given time.
 ---
 
-![preview](https://i.postimg.cc/RZjF32v9/The-expanse.png)
-#### Source: Amazon Prime
+![preview](https://i.postimg.cc/rmJVBDkW/satellite-orbit-info.png)
+#### Source: Dewesoft [link](https://dewesoft.com/blog/every-satellite-orbiting-earth-and-who-owns-them)
+
