@@ -1,6 +1,6 @@
 ---
 title: Visulaizing Satellite Orbits using Matlab
-tags: [Matlab, Astrodynamics, Planetary Science]
+tags: [Matlab, Astrodynamics, Planetary Science, Data Visualization, 3D-Mesh]
 style: Border
 color: secondary
 comments: true
