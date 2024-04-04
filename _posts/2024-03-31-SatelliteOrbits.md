@@ -37,7 +37,7 @@ The same can be replicated in matlab using 'Mesh":
 
 For, orbital elements the following terms are vital to understand the mechanics involverd. I won't dive deep into orbital mechanics but the orbits made by most satellites are ellipses and can be understood by paremetric ellipse representation and using rotatiojnal matrix representation. First, let's understand what the terms are:
 
-Eccentricity (e): Eccentricity is a measure of how much an ellipse deviates from a perfect circle. It is defined as the ratio of the distance between the foci of the ellipse to the length of the semi-major axis. Mathematically, it is represented as:
+**Eccentricity (e):** Eccentricity is a measure of how much an ellipse deviates from a perfect circle. It is defined as the ratio of the distance between the foci of the ellipse to the length of the semi-major axis. Mathematically, it is represented as:
 
 ![preview](https://i.postimg.cc/L6sxvzzr/eccen.png)
 
@@ -49,6 +49,29 @@ c is the distance between the center of the ellipse and one of its foci (focus).
 a is the length of the semi-major axis.
 
 ![Preview](https://i.postimg.cc/XJQwyzDX/elements.png)
+
+**Semi-major axis (a)**: The semi-major axis of an ellipse is half of the longest diameter of the ellipse. It is the average distance from the center of the ellipse to its perimeter. In orbital mechanics, the semi-major axis is a fundamental parameter used to describe the size of an orbit. For celestial bodies orbiting a central mass (such as planets around the Sun), the semi-major axis represents the average distance of the body from the center of mass of the system. It is often denoted by the symbol ‘a’.
+
+The semi-major axis is related to the period (T) of an orbit through Kepler's third law:
+
+![Preview](https://i.postimg.cc/0jf6MMWv/semimajor.png)
+
+For satellites in Earth orbit, the mean motion (n) is often provided in TLE data. By using this value and the known gravitational parameter of Earth (GM), you can calculate the semi-major axis (a) of the orbit.
+
+For rotation matrix, please refer [here](https://en.wikipedia.org/wiki/Rotation_matrix). We will create a similar rotation matrix for 3 orbital elements of each axis, since it is a 3D rotation.
+
+Now, we will extract the TLE information from the dataset.
+
+#### TLE data interpretation
+
+The two lines hold lot of information regarding the satellite identification and orbital data. let's extract using the follwoing matlab code:
+
+<script src="https://gist.github.com/Krishna1594/095e0d6591b641d3329708049e79ce57.js"></script>
+
+In matlab, I worte the follwoing code to create the rotation matrix which inturn gives the orbit:
+
+<script src="https://gist.github.com/Krishna1594/f0abbfe53a94bf07d64415f72772c2a4.js"></script>
+
 
 
 
