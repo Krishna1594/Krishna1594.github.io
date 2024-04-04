@@ -27,4 +27,11 @@ I needed the latest orbital details of satellites so, I leveraged [celestrack](h
 In this visualization, I searched for Medium Earth Orbit (MEO) satellites and couple of Low Earth Orbit (LEO) satellites to understand the magnitude of the distance and how cloose satellites actually revolve around Earth. I googled some MEO satellite names and searched for data in Celestrak. Once you get the TLE data, I copied and pasted the 2 lines in the '.txt' file.
 
 #### Mathematics involved
+To visualize Earth and orbits of satellite, we need 3-D co-ordinate systems for spherical objects (however, Earth is not exactly a sphere, but instead is a Spheroid. This is the closest approximation in our case.). The following equations enables us to imagine a 3D object using cartesian system:
+![preview](https://i.postimg.cc/fTG61t2B/spherecoord.png)
+
+The same can be replicated in matlab using 'Mesh":
+
+<script src="https://gist.github.com/Krishna1594/05017a216dac3cf422e3d6be04b0991d.js"></script>
+
 
