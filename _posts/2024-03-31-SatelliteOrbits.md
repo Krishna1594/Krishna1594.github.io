@@ -28,6 +28,7 @@ In this visualization, I searched for Medium Earth Orbit (MEO) satellites and co
 
 #### Mathematics involved
 To visualize Earth and orbits of satellite, we need 3-D co-ordinate systems for spherical objects (however, Earth is not exactly a sphere, but instead is a Spheroid. This is the closest approximation in our case.). The following equations enables us to imagine a 3D object using cartesian system:
+
 ![preview](https://i.postimg.cc/fTG61t2B/spherecoord.png)
 
 The same can be replicated in matlab using 'Mesh":
