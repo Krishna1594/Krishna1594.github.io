@@ -21,12 +21,16 @@ A two-line element set (TLE) or three-line element set (3LE) is a data format en
 
 If you want to know how to comprehend a TLE file, then please refer [here](https://en.wikipedia.org/wiki/Two-line_element_set).
 
+We can read the TLE file using the following code in matlab:
+
+<script src="https://gist.github.com/Krishna1594/7dd22c863e21cd6fc4cc3fe636a4629c.js"></script>
+
 #### Data Sources
 I needed the latest orbital details of satellites so, I leveraged [celestrack](https://celestrak.org/satcat/search.php)'s database to gather information of satellites and thier orbital data. There are other sources but requires registration. I donwloaded the TLE files of satellites are operational. 
 
 In this visualization, I searched for Medium Earth Orbit (MEO) satellites and couple of Low Earth Orbit (LEO) satellites to understand the magnitude of the distance and how cloose satellites actually revolve around Earth. I googled some MEO satellite names and searched for data in Celestrak. Once you get the TLE data, I copied and pasted the 2 lines in the '.txt' file.
 
-#### Mathematics involved
+### Mathematics involved
 To visualize Earth and orbits of satellite, we need 3-D co-ordinate systems for spherical objects (however, Earth is not exactly a sphere, but instead is a Spheroid. This is the closest approximation in our case.). The following equations enables us to imagine a 3D object using cartesian system:
 
 ![preview](https://i.postimg.cc/fTG61t2B/spherecoord.png)
@@ -72,6 +76,23 @@ In matlab, I worte the follwoing code to create the rotation matrix which inturn
 
 <script src="https://gist.github.com/Krishna1594/f0abbfe53a94bf07d64415f72772c2a4.js"></script>
 
+## Final Code
+The code can be clubbed into one fucntion! I aggregated the code in the following way:
 
+<script src="https://gist.github.com/Krishna1594/6b5e054efb296ee987ed6b959e8c56ec.js"></script>
+
+Now, we will begin our viz. let's import the data and use the function:
+
+<script src="https://gist.github.com/Krishna1594/8a0c1cf5424d6df8ec3eab8ea4899819.js"></script>
+
+Output:
+
+[Preview](https://i.postimg.cc/50GHwW17/orbit1.png)
+
+[Preview](https://i.postimg.cc/JhpPJxn6/orbit2.png)
+
+And that's it!
+
+I hope you enjoyed. Furthermore, this viz can be made more sophisticated by adding lot of details to it but, for now, I will leave it here. Mission accomplished!
 
 
