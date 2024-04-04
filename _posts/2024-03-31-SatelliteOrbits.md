@@ -87,9 +87,9 @@ Now, we will begin our viz. let's import the data and use the function:
 
 Output:
 
-[Preview](https://i.postimg.cc/50GHwW17/orbit1.png)
+![Preview](https://i.postimg.cc/50GHwW17/orbit1.png)
 
-[Preview](https://i.postimg.cc/JhpPJxn6/orbit2.png)
+![Preview](https://i.postimg.cc/JhpPJxn6/orbit2.png)
 
 And that's it!
 
