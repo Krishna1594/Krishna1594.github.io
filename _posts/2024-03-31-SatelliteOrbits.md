@@ -35,4 +35,20 @@ The same can be replicated in matlab using 'Mesh":
 
 <script src="https://gist.github.com/Krishna1594/05017a216dac3cf422e3d6be04b0991d.js"></script>
 
+For, orbital elements the following terms are vital to understand the mechanics involverd. I won't dive deep into orbital mechanics but the orbits made by most satellites are ellipses and can be understood by paremetric ellipse representation and using rotatiojnal matrix representation. First, let's understand what the terms are:
+
+Eccentricity (e): Eccentricity is a measure of how much an ellipse deviates from a perfect circle. It is defined as the ratio of the distance between the foci of the ellipse to the length of the semi-major axis. Mathematically, it is represented as:
+
+![preview](https://i.postimg.cc/L6sxvzzr/eccen.png)
+
+Where:
+e is the eccentricity.
+
+c is the distance between the center of the ellipse and one of its foci (focus).
+
+a is the length of the semi-major axis.
+
+![Preview](https://i.postimg.cc/XJQwyzDX/elements.png)
+
+
 
