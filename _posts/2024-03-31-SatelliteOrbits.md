@@ -60,7 +60,7 @@ The semi-major axis is related to the period (T) of an orbit through Kepler's th
 
 ![Preview](https://i.postimg.cc/0jf6MMWv/semimajor.png)
 
-For satellites in Earth orbit, the mean motion (n) is often provided in TLE data. By using this value and the known gravitational parameter of Earth (GM), you can calculate the semi-major axis (a) of the orbit.
+For satellites in Earth orbit, the mean motion (mu) is often provided in TLE data. By using this value and the known gravitational parameter of Earth (GM), you can calculate the semi-major axis (a) of the orbit.
 
 For rotation matrix, please refer [here](https://en.wikipedia.org/wiki/Rotation_matrix). We will create a similar rotation matrix for 3 orbital elements of each axis, since it is a 3D rotation.
 
