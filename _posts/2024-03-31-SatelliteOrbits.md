@@ -68,7 +68,7 @@ Now, we will extract the TLE information from the dataset.
 
 #### TLE data interpretation
 
-The two lines hold lot of information regarding the satellite identification and orbital data. let's extract using the follwoing matlab code:
+The two lines hold lot of information regarding the satellite identification and orbital data. let's extract using the following matlab code:
 
 <script src="https://gist.github.com/Krishna1594/095e0d6591b641d3329708049e79ce57.js"></script>
 
