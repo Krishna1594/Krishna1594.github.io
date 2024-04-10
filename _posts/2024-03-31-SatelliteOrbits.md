@@ -72,7 +72,7 @@ The two lines hold lot of information regarding the satellite identification and
 
 <script src="https://gist.github.com/Krishna1594/095e0d6591b641d3329708049e79ce57.js"></script>
 
-In matlab, I worte the follwoing code to create the rotation matrix which inturn gives the orbit:
+In matlab, I worte the follwoing code to create the rotation matrix which in turn gives the orbit:
 
 <script src="https://gist.github.com/Krishna1594/f0abbfe53a94bf07d64415f72772c2a4.js"></script>
 
